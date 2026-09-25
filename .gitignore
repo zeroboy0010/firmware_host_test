@@ -1,0 +1,6 @@
+python/_operate_devices.json
+python/_operate_devices.json.bak
+python/remove_cooper.py
+python/scada_rpc_sender.py
+python/staging/_operate_devices.json
+python/staging/staging_rpc_sender.py
